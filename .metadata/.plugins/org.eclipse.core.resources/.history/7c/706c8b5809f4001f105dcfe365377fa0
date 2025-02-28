@@ -1,0 +1,14 @@
+package ch2.sec06;
+
+public class SpringExample {
+
+	public static void main(String[] args) {
+
+		String name = "나는 자바\t를\t 배웁니다.";
+				
+		System.out.println(name);
+		
+		System.out.println("나는 자바를\n 배웁니다.");
+	}
+
+}

@@ -1,0 +1,26 @@
+package ch02.sec03;
+
+public class VariadleExam {
+
+	public static void main(String[] args)  {
+			
+	int A = 10;
+	int B = 20;
+	int C = 0:
+		
+		System.out.println("A:' + A = ", "B: + B " , "C: + C");
+	
+	int temp = A;
+	A = B;
+	B = temp;
+		System.out.println("A: + A","B; + B", "C: + c");
+		
+	int temp = B;
+	B = C;
+	C = temp;
+	 System.out.println("A: +A","B: + B","C: +C");
+	 
+	}
+	
+
+}
