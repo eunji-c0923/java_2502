@@ -8,29 +8,17 @@ public class ForExam04_배열08 {
 
 	
 	  
-//이중 for문
-		 
-		 for(int i=0; i<5; i++) {  //행
-			 for(int j=0; j<i+1; j++) {  //열  
-            	System.out.print("* ");
-			 }
-			 System.out.println(); 		 
-			  
-		 }
+//구구단  출력
 		
-	  
+		for(int i=2; i<=9; i++) {
+			System.out.println("****%d단****\n, i");
+			for(int j=1; j<=9; j++) {
+					System.out.println("%dx%d=%d\n, i, j, i*j");
+		
+		
+		}
 	  System.out.println();
-	  System.out.println();
-	  
-	  
-	  for(int i=0; i<5; i++) {
-		  for(int j=0; j<5-i; j++) {
-			  System.out.print("* ");
-		  }
-	   System.out.println();
-	   
-	  }
-	  
-
+		}
+		
 	}
 }
