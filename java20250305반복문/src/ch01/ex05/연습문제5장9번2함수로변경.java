@@ -2,7 +2,7 @@ package ch01.ex05;
 
 import java.util.Scanner;
 
-public class 연습문제5장9번 {
+public class 연습문제5장9번2함수로변경 {
 
 	public static void main(String[] args) {
 
