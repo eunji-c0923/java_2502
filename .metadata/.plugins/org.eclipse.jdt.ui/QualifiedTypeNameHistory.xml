@@ -7,4 +7,5 @@
     <fullyQualifiedTypeName name="ch01.ex01.Person"/>
     <fullyQualifiedTypeName name="ch01.ex01.A.C"/>
     <fullyQualifiedTypeName name="ch01.ex03.tire"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
 </qualifiedTypeNameHistroy>
