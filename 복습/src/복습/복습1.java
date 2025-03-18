@@ -57,7 +57,19 @@ public class 복습1 {
 		}
 	System.out.println("최대: "+ max + ", 최소: " + min);
 	
+	System.out.println("======================참조타입 변수의 == !=연산");
+	int[] arr1;
+	int[] arr2;
+	int[] arr3;
 	
+	arr1 = new int[] {1,2,3,4};
+	arr2 = new int[] {1,2,3};
+	arr3 = arr2;
+	
+	System.out.println(arr1 == arr2);
+	
+	System.out.println(arr2 != arr3);
+			
 	}
 	
 }
