@@ -19,6 +19,8 @@ public class Sales extends Employee imlements Bonus {
 	@Override
 	public void incentive(int pay) {
 		
-	}
+
+		int ssalary = getSalare();
+		salary += pay*0.8
 	
 }

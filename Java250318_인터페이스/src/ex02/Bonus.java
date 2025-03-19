@@ -1,5 +1,7 @@
 package ex02;
 
-public class Bonus {
+public interface Bonus {
+	
+	void incentive(int pay);
 
 }
