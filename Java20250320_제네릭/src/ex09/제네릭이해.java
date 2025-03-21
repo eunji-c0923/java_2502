@@ -28,7 +28,9 @@ public class 제네릭이해 {
 		 * 
 		 */
 		
-		
+		public static <T> Box <T> makeBox() {
+			
+		}
 	}
          	
 	}
