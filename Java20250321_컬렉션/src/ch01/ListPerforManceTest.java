@@ -3,8 +3,9 @@ package ch01;
 public class ListPerforManceTest {
 
 	public static void main(String[] args) {
-		public static void main(String[] args) {
-	        int dataSize = 100000;
+
+		
+		    int dataSize = 100000;
 	        int middleIndex = dataSize / 2;
 
 	        // 리스트 생성 및 데이터 초기화
